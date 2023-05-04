@@ -169,84 +169,84 @@
 
   $("#daktarbhai").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/daktarbhai_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/daktarbhai_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#daktarbhai-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/daktarbhai_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/daktarbhai_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#pacenet").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/pacenet_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/pacenet_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#pacenet-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/pacenet_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/pacenet_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#pacecloud").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/pacecloud_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/pacecloud_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#pacecloud-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/pacecloud_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/pacecloud_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#hisl-agent").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/hisl_agent_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/hisl_agent_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#hisl-agent-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/hisl_agent_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/hisl_agent_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#mdaktar").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/mdaktar_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/mdaktar_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#mdaktar-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/mdaktar_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/mdaktar_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#onems").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/onems_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/onems_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
 
   $("#onems-link").on("click", function() {
     $('#detailModal').modal('show');
-    $.get("http://localhost:8080/projects/onems_app.html", function(data) {
+    $.get("https://yamin335.github.io/projects/onems_app.html", function(data) {
         $('#detailModal').find('.modal-body').html(data);
     });
   });
